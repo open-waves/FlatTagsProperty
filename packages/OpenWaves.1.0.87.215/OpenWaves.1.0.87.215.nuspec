@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>OpenWaves</id>
+    <version>1.0.87.215</version>
+    <authors>Making Waves</authors>
+    <owners>Making Waves</owners>
+    <licenseUrl>http://openwaves.codeplex.com/license</licenseUrl>
+    <projectUrl>http://openwaves.codeplex.com/</projectUrl>
+    <iconUrl>http://download-codeplex.sec.s-msft.com/Download?ProjectName=openwaves&amp;DownloadId=623761</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Open Waves is framework developed at Making Waves that aims to streamline development of ASP.NET applications</description>
+    <tags>Making Waves MakingWaves Open</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Core" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Web.ApplicationServices" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+    <references>
+      <reference file="OpenWaves.dll" />
+    </references>
+  </metadata>
+</package>

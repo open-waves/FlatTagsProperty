@@ -1,0 +1,10 @@
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>Making Waves</authors>
+    <description>
+      Autocomplete functionality for large amounts of tags.
+    </description>
+  </metadata>
+</package>

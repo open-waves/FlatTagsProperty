@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>OpenWaves.EPiServer</id>
+    <version>1.0.86.348</version>
+    <title>OpenWaves.EPiServer</title>
+    <authors>Making Waves</authors>
+    <owners>Making Waves</owners>
+    <licenseUrl>http://openwaves.codeplex.com/license</licenseUrl>
+    <projectUrl>http://openwaves.codeplex.com/wikipage?title=OpenWaves.EPiServer.GeoPickerProperty</projectUrl>
+    <iconUrl>http://download-codeplex.sec.s-msft.com/Download?ProjectName=openwaves&amp;DownloadId=623761</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides base classess for EPiServer properties and set of utility classes.</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>EPiServer Property MakingWaves Utility EPiServer7 Making Waves</tags>
+    <dependencies>
+      <dependency id="OpenWaves" version="1.0.83.837" />
+    </dependencies>
+    <references>
+      <reference file="OpenWaves.EPiServer.dll" />
+    </references>
+  </metadata>
+</package>
